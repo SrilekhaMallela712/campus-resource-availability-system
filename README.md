@@ -20,7 +20,6 @@ Java
 Core Java concepts (OOP, control structures)
 Repository Structure:
 campus-resource-availability-system/
-│
 ├── Source Code
 ├── Screenshots
 └── README.md
